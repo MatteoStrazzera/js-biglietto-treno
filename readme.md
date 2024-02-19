@@ -21,3 +21,8 @@ L'output del prezzo finale va messo fuori in forma umana (con massimo due cifre 
 - creare l'output con le regole sopracitate  
 
 ### tools
+
+- const / let
+- prompt
+- if / else
+- console.log
